@@ -8,6 +8,11 @@ namespace ConsoleApp1
             return 5;
         }
 
+        float myOtherNumber()
+        {
+            return 5.7;
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
