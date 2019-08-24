@@ -8,13 +8,13 @@ namespace ConsoleApp1
             return 5;
         }
 
-        float myOtherNumber()
-        {
-            return 5.7;
+        float myOtherNumber() {
+            return 5.5;
         }
 
         static void Main(string[] args)
         {
+            int garbage;
             Console.WriteLine("Hello World!");
             Console.WriteLine("Goodbye World!");
         }
